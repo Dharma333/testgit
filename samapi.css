@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+.header {
+  padding: 10px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+}
+
+
+.footer {
+  padding: 10px;
+  text-align: center;
+  background: #ddd;
+}
+.lablediv{
+  padding: 40px;
+    text-align: center;
+    background: #F5F5DC;
+}
+.divrow{
+
+  height: 50px;
+  width: 100%;
+  color: black;
+}
+
+.flex-container {
+    display: flex;
+}
+table, td, th {
+  border: 1px solid black;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.tablediv{
+  height: 50px;
+    padding: 2px;
+    width: 100%;
+    text-align: center;
+    background: azure;
+}

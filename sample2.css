@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+.header {
+  padding: 10px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+}
+
+
+.footer {
+  padding: 10px;
+  text-align: center;
+  background: #ddd;
+}
+.lablediv{
+  padding: 30px;
+    width: 15%;
+    color: red;
+    text-align: center;
+    background: #F5F5DC;
+    display: flex;
+}
+.divrow{
+
+  height: 50px;
+  width: 100%;
+  color: black;
+}
+
+.flex-container {
+    display: flex;
+}
+.tablediv{
+  background: rebeccapurple;
+    height: 100px;
+    width: 100%;
+    color: red;
+
+}
+.myTable{
+  padding: 50px;
+  text-align: center;
+  float: left;
+    
+}
+.value{
+  padding: 5px;
+    border: 3px solid black;
+}
